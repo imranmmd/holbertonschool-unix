@@ -1,0 +1,8 @@
+total 28
+drwxr-xr-x. 6 root root 4096 Nov 24 11:24 .
+drwx------. 1 root root 4096 Nov 24 11:24 ..
+drwxr-xr-x. 8 root root 4096 Nov 24 11:22 .git
+-rw-r--r--. 1 root root    0 Nov 24 11:24 ls_cwd_content
+drwxr-xr-x. 2 root root 4096 Nov 24 10:41 shell_basics
+drwxr-xr-x. 2 root root 4096 Nov 24 10:41 shell_permissions
+drwxr-xr-x. 2 root root 4096 Nov 24 11:24 shell_redirections
